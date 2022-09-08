@@ -1,0 +1,27 @@
+.card_container{
+   padding: 15px;
+   display: flex;
+   justify-content: space-between;
+   min-width: 300px;
+}
+
+.avatar_container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.user_details{
+   width: 100%;
+   margin-left: 30px;
+}
+.user_name{
+   margin-bottom: 15px;
+}
+
+.center_page{
+      width: 60%;
+      /* height: 70vh; */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Infinite List",
+    "imageSrc": "/assets/images/infinite-scroll.jpg",
+    "altText": "Infinity",
+    "headerText": "Infinite List",
+    "content": "Infinite scrolling list with dummy animated components in react",
+    "path": "/projects/infinite-list"
+  },
+  {
+    "id": 2,
+    "name": "Counter App",
+    "imageSrc": "/assets/images/clock.jpg",
+    "altText": "counter",
+    "headerText": "Counter App",
+    "content": "Simple Counter application, Where you can increment and decrement counter on button click.",
+    "path": "/projects/counter"
+  },
+  {
+    "id": 3,
+    "name": "Sign In Page",
+    "imageSrc": "/assets/images/security.jpeg",
+    "altText": "Security",
+    "headerText": "Sign In Page",
+    "content": "Simple sign in page with validation and authentication",
+    "path": "/sign-in"
+  },
+  {
+    "id": 4,
+    "name": "Carousal Slide",
+    "imageSrc": "/assets/images/carousel_main.png",
+    "altText": "Carousal",
+    "headerText": "Carousal Slide",
+    "content": "Carousal created from bootstarp in React",
+    "path": "/projects/carousal"
+  },
+  {
+    "id": 5,
+    "name": "Accordion Drop-down",
+    "imageSrc": "/assets/images/carousel/accordion-instrument.jpeg",
+    "altText": "Accordion",
+    "headerText": "Accordion Dropdown",
+    "content": "Accordion dropdown created with bootstrap containst header and body of accordion",
+    "path": "/projects/accordion"
+  },
+  {
+    "id": 6,
+    "name": "Search",
+    "imageSrc": "/assets/images/search-filter.png",
+    "altText": "search",
+    "headerText": "Search Filter",
+    "content": "Searching filter over list in React",
+    "path": "/projects/search"
+  },
+  {
+    "id": 7,
+    "name": "HTTP request",
+    "imageSrc": "/assets/images/http-dia.png",
+    "altText": "http call",
+    "headerText": "HTTP Request",
+    "content": "HTTP request handling and rendering data get from request",
+    "path": "/projects/http-call"
+  },
+  {
+    "id": 8,
+    "name": "Rendering List",
+    "imageSrc": "/assets/images/list-art.jpg",
+    "altText": "lists",
+    "headerText": "Lists",
+    "content": "Infinite scrolling list with dummy animated components in react",
+    "path": "/projects/rendered-list"
+  },
+  {
+    "id": 9,
+    "name": "Search",
+    "imageSrc": "/assets/images/checklist.jpg",
+    "altText": "search",
+    "headerText": "Check-list",
+    "content": "Selection check-list with search and filter created with react",
+    "path": "/projects/checklist"
+  }
+]

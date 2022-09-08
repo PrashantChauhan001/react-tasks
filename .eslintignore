@@ -1,0 +1,11 @@
+node_modules
+public
+build
+.husky
+
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+*.html
