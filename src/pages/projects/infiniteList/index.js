@@ -47,6 +47,7 @@ const InfiniteList = () => {
     const controller = new AbortController();
     getUsersList(controller);
     return () => controller.abort();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
